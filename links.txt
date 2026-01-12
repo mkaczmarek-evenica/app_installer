@@ -6,3 +6,6 @@ https://www.google.com/intl/en_ca/chrome/dr/download/
 https://www.office.com/
 https://www.microsoft.com/en-ca/microsoft-teams/download-app
 https://www.docker.com/products/docker-desktop/
+https://www.postman.com/downloads/
+https://www.python.org/downloads/
+https://winscp.net/eng/downloads.php
